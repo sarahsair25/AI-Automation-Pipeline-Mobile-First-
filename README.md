@@ -36,13 +36,16 @@ Downstream Infrastructure: Secure SMTP Transport, Slack Webhooks Node
 
 ### Architecture Style: Clean Architecture (Feature-first directory layout)
 
+```text
 src/
-├── components/     # Reusable, atomic UI components & modular form design
-├── screens/        # Core layout controllers (Dashboard, Sources, Reports, Settings)
-├── navigation/     # Stack and Tab system configuration 
-├── services/       # Infrastructure layer (OpenAI, SMTP Client, Webhook Dispatchers)
-├── storage/        # Persistent state adapter layer (Data mapping & local cache)
-└── utils/          # Formatting engines, date normalizers, and schema validators
+├── components/ # Reusable, atomic UI components & modular form design
+├── screens/    # Core layout controllers (Dashboard, Sources, Reports, Settings)
+├── navigation/ # Stack and Tab system configuration
+├── services/   # Infrastructure layer (OpenAI, SMTP Client, Webhook Dispatchers)
+├── storage/    # Persistent state adapter layer (Data mapping & local cache)
+└── utils/      # Formatting engines, date normalizers, and schema validators
+```
+
 
 ### Getting Started
 
