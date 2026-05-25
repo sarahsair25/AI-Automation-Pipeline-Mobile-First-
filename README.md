@@ -61,7 +61,7 @@ Execution layers automatically compile when starting the Expo engine:
 ###Local Installation :
 
 # Clone the repository
-git clone https://github.com/your-username/ai-automation-pipeline.git
+git clone https://github.com/sarahsair25/ai-automation-pipeline.git
 
 # Navigate to the root folder
 cd ai-automation-pipeline
