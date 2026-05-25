@@ -1,8 +1,7 @@
 
 
+<img width="322" height="576" alt="1" src="https://github.com/user-attachments/assets/8aac0aaa-9e72-4012-b1f4-2b46f8f2167a" />
 
-
-<img width="317" height="593" alt="3" src="https://github.com/user-attachments/assets/62f4d473-5027-48e8-85cb-7e1d07b3c50e" />
 
 ### AI Automation Pipeline (Mobile-First)
 An enterprise-grade, mobile-first data orchestration dashboard built using React Native, Expo, and Replit. This system architecture simulates multi-stage data ingestion, processes content payloads utilizing LLM orchestration, manages transactional state persistence, and routes processed operational intelligence through concurrent delivery networks (Slack Webhooks, SMTP, and OpenAI). Designed specifically for cross-platform efficiency, the codebase implements clean architecture abstractions separating UI presentation components from core background infrastructure services.
